@@ -4,40 +4,6 @@ The programs demonstrate fundamental concepts of lexical analysis, automata theo
 
 All experiments are implemented using C programming language and can be compiled using the GCC compiler.
 
-Repository Structure
-compiler-design-lab
-│
-├── experiment1-lexical-analyzer
-│   ├── lexical_analyzer.c
-│   └── README.md
-│
-├── experiment2-regex-to-nfa
-│   ├── regex_to_nfa.c
-│   └── README.md
-│
-├── experiment3-nfa-to-dfa
-│   ├── nfa_to_dfa.c
-│   └── README.md
-│
-├── experiment4-left-recursion
-│   ├── left_recursion.c
-│   └── README.md
-│
-├── experiment5-first-follow
-│   ├── first_follow.c
-│   └── README.md
-│
-├── experiment6-predictive-parser
-│   ├── predictive_parser.c
-│   └── README.md
-│
-├── experiment7-shift-reduce
-│   ├── shift_reduce.c
-│   └── README.md
-│
-└── experiment8-leading-trailing
-    ├── leading_trailing.c
-    └── README.md
 List of Experiments
 Experiment	Title
 1	Lexical Analyzer
