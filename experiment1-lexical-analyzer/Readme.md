@@ -3,7 +3,7 @@ Aim
 
 Develop a Lexical Analyzer that identifies tokens such as keywords, identifiers, operators, constants, and punctuation symbols from a given C program.
 
-Theory
+Theory:
 
 The Lexical Analyzer is the first phase of a compiler.
 Its main responsibility is to convert a sequence of characters into a sequence of tokens.
@@ -35,7 +35,7 @@ Continue until end of file.
 
 Display all tokens.
 
-How to Run
+How to Run:
 
 gcc lexical_analyzer.c
 ./a.out
@@ -49,7 +49,7 @@ a → Identifier
 Files
 lexical_analyzer.c — Implementation of lexical analyzer
 
-Concepts Used
+Concepts Used:
 
 Tokenization
 
