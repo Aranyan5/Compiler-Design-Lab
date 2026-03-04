@@ -36,6 +36,7 @@ Continue until end of file.
 Display all tokens.
 
 How to Run
+
 gcc lexical_analyzer.c
 ./a.out
 Sample Output
@@ -47,6 +48,7 @@ a → Identifier
 10 → Constant
 Files
 lexical_analyzer.c — Implementation of lexical analyzer
+
 Concepts Used
 
 Tokenization
